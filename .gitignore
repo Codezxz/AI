@@ -1,0 +1,5 @@
+zvenv/
+.env
+readPDF.py
+readPDF2.py
+FlaskAPICall2.py
