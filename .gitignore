@@ -3,3 +3,6 @@ zvenv/
 readPDF.py
 readPDF2.py
 FlaskAPICall2.py
+'Flask API'/__pycache__
+'Flask API'/vosk-model-small-en-in-0.4
+'Flask API'/vosk-model-small-en-us-0.15
